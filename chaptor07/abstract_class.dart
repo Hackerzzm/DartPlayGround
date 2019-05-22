@@ -6,7 +6,7 @@
 
 void main(){
   //ERROR 1.抽象类使用abstrac表示，不能直接被实例化
-  var Person = new Person();
+  //var Person = new Person();
 }
 
 abstract class Person{
